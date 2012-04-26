@@ -1,0 +1,5 @@
+C:\Users\nchoudhury\documents\visual studio 2010\Projects\PlainIoC\PlainIoC\bin\Release\PlainIoC.dll
+C:\Users\nchoudhury\documents\visual studio 2010\Projects\PlainIoC\PlainIoC\bin\Release\PlainIoC.pdb
+C:\Users\nchoudhury\documents\visual studio 2010\Projects\PlainIoC\PlainIoC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nchoudhury\documents\visual studio 2010\Projects\PlainIoC\PlainIoC\obj\Release\PlainIoC.dll
+C:\Users\nchoudhury\documents\visual studio 2010\Projects\PlainIoC\PlainIoC\obj\Release\PlainIoC.pdb
