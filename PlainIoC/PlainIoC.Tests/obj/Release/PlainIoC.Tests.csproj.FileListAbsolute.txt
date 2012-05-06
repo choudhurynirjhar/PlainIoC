@@ -1,0 +1,9 @@
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC.Tests\bin\Release\PlainIoC.Tests.dll
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC.Tests\bin\Release\PlainIoC.Tests.pdb
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC.Tests\bin\Release\PlainIoC.dll
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC.Tests\bin\Release\xunit.dll
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC.Tests\bin\Release\PlainIoC.pdb
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC.Tests\bin\Release\xunit.xml
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC.Tests\obj\Release\PlainIoC.Tests.dll
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC.Tests\obj\Release\PlainIoC.Tests.pdb

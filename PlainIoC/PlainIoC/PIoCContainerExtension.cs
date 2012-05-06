@@ -7,7 +7,7 @@ namespace PlainIoC
 {
     public static class PIoCContainerExtension
     {
-        public static void Register<T>(this PIoCContainer container, Func<T> f)
+        public static void Record<T>(this PIoCContainer container, Func<T> f)
         {
 
         }

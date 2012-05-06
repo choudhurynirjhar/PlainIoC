@@ -39,11 +39,14 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="xunit">
-      <HintPath>..\..\..\..\..\Downloads\xunit-1.9\xunit.dll</HintPath>
+      <HintPath>..\..\..\Downloads\xunit-1.9\xunit.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="DataProviderManager.cs" />
+    <Compile Include="IDateProvider.cs" />
+    <Compile Include="PIoCTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

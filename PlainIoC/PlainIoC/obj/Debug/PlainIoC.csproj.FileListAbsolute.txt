@@ -3,3 +3,8 @@ C:\Users\nchoudhury\Documents\Visual Studio 2010\Projects\PlainIoC\PlainIoC\bin\
 C:\Users\nchoudhury\Documents\Visual Studio 2010\Projects\PlainIoC\PlainIoC\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\nchoudhury\Documents\Visual Studio 2010\Projects\PlainIoC\PlainIoC\obj\Debug\PlainIoC.dll
 C:\Users\nchoudhury\Documents\Visual Studio 2010\Projects\PlainIoC\PlainIoC\obj\Debug\PlainIoC.pdb
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC\bin\Debug\PlainIoC.dll
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC\bin\Debug\PlainIoC.pdb
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC\obj\Debug\PlainIoC.dll
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoC\obj\Debug\PlainIoC.pdb

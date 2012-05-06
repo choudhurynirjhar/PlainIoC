@@ -12,7 +12,14 @@ namespace PlainIoC
         internal IList<Type> Types { get; set; }
         internal IDictionary<Type, Delegate> TypesWithDelegate { get; set; }
 
-        public void RegisterAssembly(Assembly assembly)
+        public PIoCContainer()
+        {
+            Assemblies = new List<string>();
+            Types = new List<Type>();
+            TypesWithDelegate = new Dictionary<Type, Delegate>();
+        }
+
+        public void RecordAssembly(Assembly assembly)
         {
             Assemblies.Add(assembly.FullName);
             foreach (Type type in assembly.GetTypes())
@@ -21,7 +28,7 @@ namespace PlainIoC
             }
         }
 
-        public void Register<T>(T t, Func<T> f)
+        public void Record<T>(T t, Func<T> f)
         {
             if (Types.Contains(t.GetType()))
             {
@@ -30,9 +37,14 @@ namespace PlainIoC
             }
         }
 
-        public T Resolve<T>(T t)
+        public T Return<T>()
         {
-            return default(T);
+            return Activator.CreateInstance<T>();
+        }
+
+        public void Prepare()
+        {
+            
         }
     }
 }
