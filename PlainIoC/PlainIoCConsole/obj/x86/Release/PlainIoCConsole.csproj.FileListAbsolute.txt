@@ -1,0 +1,7 @@
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoCConsole\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoCConsole\bin\Release\PlainIoCConsole.exe
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoCConsole\bin\Release\PlainIoCConsole.pdb
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoCConsole\bin\Release\PlainIoC.dll
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoCConsole\bin\Release\PlainIoC.pdb
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoCConsole\obj\x86\Release\PlainIoCConsole.exe
+C:\Users\nchoudhury\PlainIoC\PlainIoC\PlainIoCConsole\obj\x86\Release\PlainIoCConsole.pdb
